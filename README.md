@@ -1,5 +1,5 @@
 # social-media-monitoring-zakat
-This repository contains the implementation for my final year project, Social Media Monitoring System for Zakat Institutions. 
+This repository contains the backend implementation for my final year project, Social Media Monitoring System for Zakat Institutions. The system leverages machine learning, specifically the BERT model, to perform sentiment analysis on social media data. The goal of this project is to enhance transparency, efficiency, and impact in Zakat collection and distribution by analyzing public sentiment and providing actionable insights.
 
 
 ## Project Overview
