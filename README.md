@@ -10,7 +10,7 @@ This repository contains the backend implementation for my final year project, S
 ## Features
 
 - Social media sentiment analysis using BERT.
-- Interactive dashboards for data visualization (accessible via [Looker Studio Dashboard](#)).
+- Interactive dashboards for data visualization (accessible via [Looker Studio Dashboard](#https://lookerstudio.google.com/u/1/reporting/29ec5ded-bfba-4200-8ff0-1cbceee4bb0f/page/pQ63D)).
 - Backend developed using Python and Google Colab.
 
 ## Repository Structure
