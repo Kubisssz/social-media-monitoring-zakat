@@ -26,4 +26,4 @@ This repository contains the backend implementation for my final year project, S
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](social-media-monitoring-zakat/dashbord.png)
+![Dashboard Screenshot](dashbord.png)
