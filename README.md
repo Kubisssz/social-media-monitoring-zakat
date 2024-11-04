@@ -23,3 +23,7 @@ This repository contains the backend implementation for my final year project, S
 1. Clone the repository:
    ```bash
    git clone https://github.com/Kubisssz/social-media-monitoring-zakat.git
+
+## Dashboard Preview
+
+![Dashboard Screenshot](images/dashboard.png)
